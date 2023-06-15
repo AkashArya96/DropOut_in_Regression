@@ -13,5 +13,4 @@ by simply using a single unthinned network that has smaller weights. This signif
 reduces overfitting and gives major improvements over other regularization methods. We
 show that dropout improves the performance of neural networks on supervised learning
 tasks in vision, speech recognition, document classification and computational biology,
-obtaining state-of-the-art results on many benchmark data sets.!
-[Screenshot 2023-06-15 083818](https://github.com/AkashArya96/DropOut_in_Regression/assets/123381322/8ad27522-09da-4bd1-91dd-e015193aa4d6)
+obtaining state-of-the-art results on many benchmark data sets.
